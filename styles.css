@@ -1,0 +1,76 @@
+body {
+    background-color: #D0E6DF; /* Teal Tiffany */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 48px;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+}
+
+.section {
+    margin-bottom: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #FFF;
+    transition: transform 0.3s ease-in-out;
+}
+
+.section:hover {
+    transform: translateY(-5px);
+}
+
+.section-title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #C4E4D4; /* Teal Tiffany Light */
+}
+
+input:focus, button:focus {
+    outline: none;
+}
+
+button {
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #A2D5C6; /* Teal Tiffany Dark */
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+.palindrome {
+    background-color: #E8F8F5; /* Teal Tiffany Lighter */
+}
+
+.character-counter {
+    background-color: #B4DFE5; /* Teal Tiffany Darker */
+}
+
+.tip-calculator {
+    background-color: #D3E5EB; /* Teal Tiffany Medium */
+}
+
+
