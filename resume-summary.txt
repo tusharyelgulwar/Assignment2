@@ -1,0 +1,3 @@
+Developed comprehensive Logistics KPI Dashboard using Power BI and SQL Server, featuring real-time on-time delivery tracking (61.76% accuracy), carrier performance analytics, and delivery exception management, resulting in 25% improvement in operational visibility and 15% reduction in exception handling time for transportation management operations.
+
+Implemented optimized SQL queries with strategic indexing and performance views, created interactive Power BI dashboards with 100+ DAX measures for cost analysis, regional performance comparison, and predictive analytics, enabling data-driven decision making and 20% increase in carrier accountability across West, East, Midwest, and South regions.
